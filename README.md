@@ -1,4 +1,5 @@
 [![logo](http://cto-security-checklist.sqreen.io/images/github.jpg)](http://cto-security-checklist.sqreen.io/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapurvadave%2FCTOSecurityChecklist.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapurvadave%2FCTOSecurityChecklist?ref=badge_shield)
 
 # The SaaS CTO Security Checklist
 
@@ -8,3 +9,7 @@ This is a basic checklist that all SaaS CTOs (and anyone else) can use to harden
 
 Please take a look at the [contribution guidelines](https://github.com/sqreen/CTOSecurityChecklist/blob/master/CONTRIBUTING.md) before contributing.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapurvadave%2FCTOSecurityChecklist.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapurvadave%2FCTOSecurityChecklist?ref=badge_large)
